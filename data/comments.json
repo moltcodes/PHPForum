@@ -1,0 +1,79 @@
+[
+    {
+        "postId": 1,
+        "id": 1,
+        "name": "Jibz Erns",
+        "email": "ernesto@jibz.biz",
+        "body": "Please dont!"
+    },
+    {
+        "postId": 1,
+        "id": 2,
+        "name": "Mikee Kee",
+        "email": "mikee@kee.com",
+        "body": "Might be a reply"
+    },
+    {
+        "postId": 2,
+        "id": 3,
+        "name": "Antonio Skultz",
+        "email": "skultz@ed.edu",
+        "body": "Basically not maybe"
+    },
+    {
+        "postId": 4,
+        "id": 4,
+        "name": "Mario Nuss",
+        "email": "marionuss@ent.org",
+        "body": "Thou shall not and not thou"
+    },
+    {
+        "postId": "14",
+        "id": 4,
+        "name": "Mario Summ",
+        "email": "mariosumm@gmail.com",
+        "body": ": hi self"
+    },
+    {
+        "postId": "15",
+        "id": 5,
+        "name": "maltjohnvianney",
+        "email": "molthi",
+        "body": ": BAM YESYES"
+    },
+    {
+        "postId": "15",
+        "id": 6,
+        "name": "kayeaizerner",
+        "email": "molthi",
+        "body": ": DEIP DIPP"
+    },
+    {
+        "postId": "17",
+        "id": 7,
+        "name": "maltjohnvianney",
+        "email": "molthi",
+        "body": ": this is a tough one"
+    },
+    {
+        "postId": "16",
+        "id": 8,
+        "name": "maltjohnvianney",
+        "email": "molthi",
+        "body": ": a nightmare, a nightmare"
+    },
+    {
+        "postId": "6",
+        "id": 9,
+        "name": "shanleysebial",
+        "email": "molthi",
+        "body": ": QC girls gusto sarap buhay"
+    },
+    {
+        "postId": "17",
+        "id": 10,
+        "name": "George",
+        "email": "gnf@dream.com",
+        "body": ": hi simon! i am george not found :)"
+    }
+]

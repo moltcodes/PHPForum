@@ -1,0 +1,62 @@
+[
+    {
+        "uid": 1,
+        "id": 1,
+        "title": "This is a sample Post",
+        "body": "This is the body of the sample post"
+    },
+    {
+        "uid": 1,
+        "id": 2,
+        "title": "What a beautiful day!",
+        "body": "The day has come for us to rejoice!"
+    },
+    {
+        "uid": 2,
+        "id": 3,
+        "title": "It is not Everyday!",
+        "body": "Sometimes, most of the times, things go south"
+    },
+    {
+        "uid": 2,
+        "id": 4,
+        "title": "Half-Baked",
+        "body": "An ounce of effort and a ton of patience!"
+    },
+    {
+        "uid": 16,
+        "id": 6,
+        "title": "QC",
+        "body": "QC girls fine yoko muna ng iba"
+    },
+    {
+        "uid": 17,
+        "id": 6,
+        "title": "I love to edge",
+        "body": "judy bernus"
+    },
+    {
+        "uid": 16,
+        "id": 7,
+        "title": "hi deo",
+        "body": ":)"
+    },
+    {
+        "uid": 18,
+        "id": 15,
+        "title": "SKIBIDI",
+        "body": "TOILET"
+    },
+    {
+        "uid": 11,
+        "id": 16,
+        "title": "I can't breath",
+        "body": "when you're not there"
+    },
+    {
+        "uid": 19,
+        "id": 17,
+        "title": "I can't breath",
+        "body": "when you're not there"
+    }
+]

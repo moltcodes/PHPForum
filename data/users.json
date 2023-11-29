@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name": "Mario Summ",
+        "username": "mariosumm",
+        "email": "mariosumm@gmail.com",
+        "address": {
+            "street": "Kahilakon",
+            "barangay": "Himi",
+            "city": "Crying Buds"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Emily Laff",
+        "username": "emilylaff",
+        "email": "emilylaff@gmail.com",
+        "address": {
+            "street": "Muboon",
+            "barangay": "Putot",
+            "city": "Giants"
+        }
+    },
+    {
+        "id": 3,
+        "name": "j",
+        "username": "j",
+        "email": "molthi"
+    },
+    {
+        "id": 4,
+        "name": "j",
+        "username": "j",
+        "email": "molthi"
+    },
+    {
+        "id": 5,
+        "name": null,
+        "username": null,
+        "email": "molthi"
+    },
+    {
+        "id": 6,
+        "name": "j",
+        "username": "j",
+        "email": "molthi"
+    },
+    {
+        "id": 7,
+        "name": "j",
+        "username": "j",
+        "email": "molthi"
+    },
+    {
+        "id": 8,
+        "name": "hhh",
+        "username": "hhh",
+        "email": "molthi"
+    },
+    {
+        "id": 9,
+        "name": "simon",
+        "username": "simon",
+        "email": "molthi"
+    },
+    {
+        "id": 10,
+        "name": "jamesacabal",
+        "username": "jamesacabal",
+        "email": "molthi"
+    },
+    {
+        "id": 11,
+        "name": "kayeaizerner",
+        "username": "kayeaizerner",
+        "email": "molthi"
+    },
+    {
+        "id": 12,
+        "name": "hmmtest",
+        "username": "hmmtest",
+        "email": "molthi"
+    },
+    {
+        "id": 13,
+        "name": "hmmtest",
+        "username": "hmmtest",
+        "email": "molthi"
+    },
+    {
+        "id": 14,
+        "name": "hhh",
+        "username": "hhh",
+        "email": "molthi"
+    },
+    {
+        "id": 15,
+        "name": "aliyahvenice",
+        "username": "aliyahvenice",
+        "email": "molthi"
+    },
+    {
+        "id": 16,
+        "name": "maltjohnvianney",
+        "username": "maltjohnvianney",
+        "email": "molthi"
+    },
+    {
+        "id": 17,
+        "name": "deotalip",
+        "username": "deotalip",
+        "email": "molthi"
+    },
+    {
+        "id": 18,
+        "name": "shanleysebial",
+        "username": "shanleysebial",
+        "email": "molthi"
+    },
+    {
+        "id": 19,
+        "name": "simonescano",
+        "username": "simonescano",
+        "email": "molthi",
+        "address": {
+            "street": "Labangon",
+            "barangay": "Tisa",
+            "city": "Cebu"
+        }
+    },
+    {
+        "id": 20,
+        "name": "simonescano",
+        "username": "simonescano",
+        "email": "molthi",
+        "address": {
+            "street": "Labangon",
+            "barangay": "Tisa",
+            "city": "Cebu"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Dream Craft",
+        "username": null,
+        "email": "dream@minor.com",
+        "address": {
+            "street": "Labangon",
+            "barangay": "Tisa",
+            "city": "Cebu"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Dream Craft",
+        "username": null,
+        "email": "dream@minor.com",
+        "address": {
+            "street": "Labangon",
+            "barangay": "Tisa",
+            "city": "Cebu"
+        }
+    },
+    {
+        "id": 23,
+        "name": "George",
+        "username": "georgenotfound",
+        "email": "gnf@dream.com",
+        "address": {
+            "street": "Labangon",
+            "barangay": "Tisa",
+            "city": "Cebu"
+        }
+    },
+    {
+        "id": 24,
+        "name": "yujin",
+        "username": "yujinhey",
+        "email": "yujin@gmail.com",
+        "address": {
+            "street": "yujinst",
+            "barangay": "yujinbrgy",
+            "city": "yujincity"
+        }
+    }
+]
